@@ -51,6 +51,7 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+
 HALF ADDER
 
 module ha(a,b,sum,carry);
