@@ -80,14 +80,15 @@ assign borrow= ( ~a & b);
 
 endmodule
 
-Developed by: RegisterNumber:*/
+Developed by:KISHOR K R RegisterNumber:24003621
 
 **RTL Schematic**
 ![Screenshot 2024-12-24 085420](https://github.com/user-attachments/assets/42df6ff2-2b05-4377-aa76-59e89cf2bd28)
 
+![Screenshot 2024-12-31 145033](https://github.com/user-attachments/assets/7283b031-7fb4-4163-af09-026e20dcb9ce)
 
 **TIMING WAVEDIAGRAM**
-![Screenshot 2024-12-24 085540](https://github.com/user-attachments/assets/2ec833aa-e66d-4786-83ce-813d3d24199d)
+![Screenshot 2024-12-31 145021](https://github.com/user-attachments/assets/82c9455e-40cf-4b64-83d1-c138cc4cb77a)
 
 
 **Result:**
